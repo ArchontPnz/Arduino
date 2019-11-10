@@ -1,4 +1,4 @@
-# ADXL335
+# ![ADXL335](Diagram1.png)
 System for receiving and processing data from analog accelerometer ADXL335
 
 The system consists of:
